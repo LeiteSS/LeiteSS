@@ -1,6 +1,5 @@
 <p align="center">
-  <b>My name's Silas Santos but everybody calls me Salis</b></br>
-  <img src="first.gif">
+  <img src="first-with-text.gif">
 </p>
 
 <!--
