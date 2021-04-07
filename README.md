@@ -1,4 +1,7 @@
-->My name's Silas Santos but everybody calls me Salis<-
+<p align="center">
+  <b>My name's Silas Santos but everybody calls me Salis</b></br>
+  <img src="first.gif">
+</p>
 
 <!--
 **LeiteSS/LeiteSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
