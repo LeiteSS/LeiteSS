@@ -1,4 +1,4 @@
-<p align:center>My name is Silas Santos my everybody calls me Salis</p>
+<h1 align:"center">My name is Silas Santos my everybody calls me Salis</h1>
 
 <!--
 **LeiteSS/LeiteSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
