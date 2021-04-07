@@ -1,5 +1,5 @@
+<h1 style="text-align: center;" markdown="1">My name's Silas Santos but everybody calls me Salis</h1></br>
 <p align="center">
-  <center><h1>My name's Silas Santos but everybody calls me Salis</h1><center></br>
   <img src="first.gif">
 </p>
 
