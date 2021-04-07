@@ -1,4 +1,4 @@
-<center>My name's Silas Santos but everybody calls me Salis<center></br>
+<center><h1>My name's Silas Santos but everybody calls me Salis</h1><center></br>
 <p align="center">
   <img src="first.gif">
 </p>
